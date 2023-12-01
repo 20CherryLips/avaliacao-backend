@@ -35,8 +35,8 @@ function inicializarVeiculos() {
     bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Carro', 'Toyota', 'Corolla', 'ABC-1234', 'Gasolina', 2020, 'Prata', 50000));
     bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Carro', 'Ford', 'Focus', 'XYZ-5678', 'Etanol', 2018, 'Preto', 60000));
     bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Carro', 'Honda', 'Civic', 'JKL-9012', 'Flex', 2019, 'Azul', 45000));
-    bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Carro', 'Volvo', 'FH16', 'XYZ-5678', 'Diesel', 2019, 'Azul', 80000));
-    bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Carro', 'Mercedes-Benz', 'Actros', 'GHI8765', 'Diesel', 2022, 'Branco', 60000));
+    bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Caminhão', 'Volvo', 'FH16', 'XYZ-5678', 'Diesel', 2019, 'Azul', 80000));
+    bancoDadosVeiculo.push(new Veiculo_1.Veiculo('Caminhão', 'Mercedes-Benz', 'Actros', 'GHI8765', 'Diesel', 2022, 'Branco', 60000));
 }
 exports.inicializarVeiculos = inicializarVeiculos;
 //# sourceMappingURL=bancoDeDados.js.map

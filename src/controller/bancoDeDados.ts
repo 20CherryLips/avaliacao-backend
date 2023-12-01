@@ -40,9 +40,9 @@ export function inicializarVeiculos() {
         new Veiculo('Carro', 'Honda', 'Civic', 'JKL-9012', 'Flex', 2019, 'Azul', 45000));
 
     bancoDadosVeiculo.push(
-        new Veiculo('Carro', 'Volvo', 'FH16', 'XYZ-5678', 'Diesel', 2019, 'Azul', 80000 ));
+        new Veiculo('Caminhão', 'Volvo', 'FH16', 'XYZ-5678', 'Diesel', 2019, 'Azul', 80000 ));
 
     bancoDadosVeiculo.push(
-        new Veiculo('Carro', 'Mercedes-Benz', 'Actros', 'GHI8765', 'Diesel', 2022, 'Branco', 60000));
+        new Veiculo('Caminhão', 'Mercedes-Benz', 'Actros', 'GHI8765', 'Diesel', 2022, 'Branco', 60000));
 
 }
